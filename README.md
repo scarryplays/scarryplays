@@ -2,9 +2,9 @@ Hi there 👋, I’m Kumar Anubhav
 
 🚀 Aspiring Full-Stack Developer | B.Tech IT @ Chandigarh University
 💻 Passionate about building scalable web applications with the MERN stack (MongoDB, Express.js, React.js, Node.js).
-🌱 Currently working on OG Guide – a global tour guide web app with interactive maps & APIs.
-⚡ Also built ScarryKeeps – a modern note-taking app with CRUD & local storage.
-✨ Interested in 3.js, Next.js, and exploring how tech can create real impact.
+🌱 Currently working on OG Guide and STG AI
+⚡ Also built Project Nest and ScarryKeeps
+✨ Interested in 3.js, Django, and exploring how tech can create real impact.
 
 
 ## 🌐 Socials:
