@@ -4,7 +4,7 @@ Hi there 👋, I’m Kumar Anubhav
 💻 Passionate about building scalable web applications with the Full stack with AI (MongoDB, Express.js, React.js, Node.js, Django, Sqllite).
 🌱 Currently working on OG Guide and STG AI
 ⚡ Also built Project Nest and ScarryKeeps
-✨ Interested in 3.js, Django, and exploring how tech can create real impact.
+✨ Interested Django, and exploring how tech can create real impact.
 
 
 ## 🌐 Socials:
