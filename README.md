@@ -1,6 +1,6 @@
 Hi there 👋, I’m Kumar Anubhav
 
-🚀 Aspiring Full-Stack Developer | B.Tech IT @ Chandigarh University
+🚀 Full-Stack Developer | B.Tech IT @ Chandigarh University
 💻 Passionate about building scalable web applications with the Full stack with AI (MongoDB, Express.js, React.js, Node.js, Django, Sqllite).
 🌱 Currently working on OG Guide and STG AI
 ⚡ Also built Project Nest and ScarryKeeps
